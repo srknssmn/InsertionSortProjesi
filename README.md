@@ -1,5 +1,7 @@
-# Repo içerisinde Patika.dev Algoritma konusu ödevleri yer almaktadır.
+# Patika Sitesi Ödevler
 
-odev.md : Insertion Sort Projesi
-oden2.md : Merge Sort Projesi
-binearysearchtree.md : Bineary Search Tree Projesi
+**Repo içerisinde Patika.dev Veri Yapıları ve Algoritmalar dersine ait bitirme ödevleri yer almaktadır.**
+
+- [Insertion Sort Projesi](https://github.com/srknssmn/InsertionSortProjesi/blob/main/odev.md)
+- [Merge Sort Projesi](https://github.com/srknssmn/InsertionSortProjesi/blob/main/odev2.md)
+- [Bineary Search Tree Projesi](https://github.com/srknssmn/InsertionSortProjesi/blob/main/BinarySearchTree.md)
