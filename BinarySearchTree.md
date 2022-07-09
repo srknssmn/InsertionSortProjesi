@@ -18,3 +18,5 @@ Root: 7 olarak alıyoruz.
              0   3
                 / \ 
                2   4
+
+               
